@@ -1,5 +1,5 @@
 {
-  "version": "0.6.3",
+  "version": "0.6.4",
   "apkUrl": "https://raw.githubusercontent.com/AlexandrePadua/spectrum-shooter-updates/main/SpectrumShooter.apk",
-  "notes": "Toque 5 vezes no logo do menu para abrir a Arena de testes."
+  "notes": "Mostra a versão no menu e procura atualização também ao voltar para o jogo."
 }
