@@ -1,5 +1,5 @@
 {
-  "version": "0.6.5",
+  "version": "0.6.6",
   "apkUrl": "https://raw.githubusercontent.com/AlexandrePadua/spectrum-shooter-updates/main/SpectrumShooter.apk",
-  "notes": "Nova aba Fases na Arena de testes: jogue qualquer fase sem mexer no seu progresso."
+  "notes": "Botão Procurar atualização nas Opções."
 }
