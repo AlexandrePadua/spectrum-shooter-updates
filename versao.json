@@ -1,5 +1,5 @@
 {
-  "version": "0.6.6",
+  "version": "0.6.7",
   "apkUrl": "https://raw.githubusercontent.com/AlexandrePadua/spectrum-shooter-updates/main/SpectrumShooter.apk",
-  "notes": "Botão Procurar atualização nas Opções."
+  "notes": "Sem combo e sem nível do player: itens da loja liberam ao vencer fases. Laser novo."
 }
