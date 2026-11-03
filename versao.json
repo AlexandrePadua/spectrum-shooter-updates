@@ -1,5 +1,5 @@
 {
-  "version": "0.6.7",
+  "version": "0.6.8",
   "apkUrl": "https://raw.githubusercontent.com/AlexandrePadua/spectrum-shooter-updates/main/SpectrumShooter.apk",
-  "notes": "Sem combo e sem nível do player: itens da loja liberam ao vencer fases. Laser novo."
+  "notes": "Controles novos no celular: joystick para mirar e botão FOGO. Segure o botão de cor e arraste até a cor que quiser (vibra ao abrir e ao trocar de fatia)."
 }
