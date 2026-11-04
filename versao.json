@@ -1,5 +1,5 @@
 {
-  "version": "0.6.8",
+  "version": "0.6.9",
   "apkUrl": "https://raw.githubusercontent.com/AlexandrePadua/spectrum-shooter-updates/main/SpectrumShooter.apk",
-  "notes": "Controles novos no celular: joystick para mirar e botão FOGO. Segure o botão de cor e arraste até a cor que quiser (vibra ao abrir e ao trocar de fatia)."
+  "notes": "Seletor de cores circular: segure o botão de cor (agora redondo) e arraste até a cor na roda acima dele."
 }
