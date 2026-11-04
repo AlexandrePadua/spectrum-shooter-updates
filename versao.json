@@ -1,5 +1,5 @@
 {
-  "version": "0.8.0",
-  "apkUrl": "https://raw.githubusercontent.com/AlexandrePadua/spectrum-shooter-updates/main/SpectrumShooter.apk?v=0.8.0",
-  "notes": "Novo mundo Tutorial antes do Mundo 1: a IRIS se apresenta e ensina a mirar, atirar e trocar de cor em 3 fases, com um chefe fácil no fim. Especiais só podem ser comprados depois do tutorial, e o Arcade abre depois do tutorial e do Mundo 1."
+  "version": "0.8.1",
+  "apkUrl": "https://raw.githubusercontent.com/AlexandrePadua/spectrum-shooter-updates/main/SpectrumShooter.apk?v=0.8.1",
+  "notes": "Fases podem proibir especiais: o mapa mostra o aviso SEM ESPECIAIS, como o de SUPER DIFÍCIL."
 }
