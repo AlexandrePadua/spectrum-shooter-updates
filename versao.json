@@ -1,5 +1,5 @@
 {
-  "version": "0.9.0",
-  "apkUrl": "https://raw.githubusercontent.com/AlexandrePadua/spectrum-shooter-updates/main/SpectrumShooter.apk?v=0.9.0",
-  "notes": "Efeitos novos: Quasar colorido que deixa a tela branca, Escudo de campo de força que pisca e quebra, aura roxa nos chefes invulneráveis, meteoro pegando fogo (só no Mundo 1) e Raio Laser que carrega, se parte no fim e destrói tiros inimigos."
+  "version": "0.10.0",
+  "apkUrl": "https://raw.githubusercontent.com/AlexandrePadua/spectrum-shooter-updates/main/SpectrumShooter.apk?v=0.10.0",
+  "notes": "Escolha os controles no pause: mira Clássica (toque na tela), Barra, Joystick ou Setas, e troca de cor em Bolhas, Meia-lua, Anel 3/4, Anel ou Botões. Menu principal e opções novos em pixel art pontilhada."
 }
