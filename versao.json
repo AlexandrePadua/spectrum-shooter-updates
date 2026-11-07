@@ -1,5 +1,5 @@
 {
-  "version": "0.10.0",
-  "apkUrl": "https://raw.githubusercontent.com/AlexandrePadua/spectrum-shooter-updates/main/SpectrumShooter.apk?v=0.10.0",
-  "notes": "Escolha os controles no pause: mira Clássica (toque na tela), Barra, Joystick ou Setas, e troca de cor em Bolhas, Meia-lua, Anel 3/4, Anel ou Botões. Menu principal e opções novos em pixel art pontilhada."
+  "version": "0.11.0",
+  "apkUrl": "https://raw.githubusercontent.com/AlexandrePadua/spectrum-shooter-updates/main/SpectrumShooter.apk?v=0.11.0",
+  "notes": "Logo animada: cada letra colorida pula. Todas as telas com o mesmo visual, o botão de voltar sempre no canto de cima, aviso do que falta para liberar cada coisa, confirmação para reiniciar ou sair no pause e letras maiores no celular."
 }
