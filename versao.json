@@ -1,5 +1,5 @@
 {
-  "version": "0.11.0",
-  "apkUrl": "https://raw.githubusercontent.com/AlexandrePadua/spectrum-shooter-updates/main/SpectrumShooter.apk?v=0.11.0",
-  "notes": "Logo animada: cada letra colorida pula. Todas as telas com o mesmo visual, o botão de voltar sempre no canto de cima, aviso do que falta para liberar cada coisa, confirmação para reiniciar ou sair no pause e letras maiores no celular."
+  "version": "0.12.0",
+  "apkUrl": "https://raw.githubusercontent.com/AlexandrePadua/spectrum-shooter-updates/main/SpectrumShooter.apk?v=0.12.0",
+  "notes": "Visual novo, mais fácil de ler: telas escuras e lisas, sem pontilhado, letras maiores no celular e destaque claro no item escolhido. Na loja, o preço e o botão ficam sempre à vista."
 }
